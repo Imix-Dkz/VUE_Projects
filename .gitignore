@@ -1,0 +1,5 @@
+#Se omiten todas las librerias "node_modules" de los proyectos hijos
+*/*/node_modules
+
+#Asi como los ".gitignore" de cada subcarpeta
+*/*/.gitignore
